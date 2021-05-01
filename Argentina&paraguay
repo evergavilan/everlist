@@ -7,7 +7,7 @@
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=1261
 
 #EXTINF:0 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png " group-title="ARGENTINA",CANAL9
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=21367
+https://ar-elnueve-elnueve-dev-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5OTg1MTc2LCJzZXNzaW9uIjoiMTY4LjE5Ni4yNDYuMjI1Iiwid2hpdGVsaXN0IjpbIjE2OC4xOTYuMjQ2LjIyNSJdfSwic2lnbmF0dXJlIjoiZTcwZGUxOGU0MGRkMzIyODEyMDc5NzJiZGUyYzUzNDZkZWU2NDAzNCJ9
 
 #EXTINF:0 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1200px-Logotipo_de_America_TV.svg.png" group-title="ARGENTINA",AMERICA
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=1271
@@ -22,13 +22,13 @@ https://blackghost.live/311/tvx.php?opcion=xtv33&c=15172
  https://blackghost.live/311/tvx.php?opcion=xtv33&c=15175
 
 #EXTINF:0 tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY",LA TELE
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=15178
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1619894987~exp=1619902187~acl=/i/appmitelefe_1@326430/*~hmac=f16b750222aa570412a9c1474c77105369eef3cae37535164b10d76ebcf861d9
 
 #EXTINF:0 tvg-chno="13" tvg-logo="https://i.pinimg.com/originals/29/db/ba/29dbbaa4b401cfb760813f915e886e8e.jpg" group-title="PARAGUAY",UNICANAL
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=15173
 
 #EXTINF:0 tvg-chno="14" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="PARAGUAY",EL TRECE
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=15176
+https://stream.rpc.com.py/live/trece.m3u8
 
 #EXTINF:0 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="ARGENTINA",C5N
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=1269
@@ -90,5 +90,10 @@ https://blackghost.live/311/tvx.php?opcion=xtv33&c=1735
 #EXTINF:0 tvg-chno="4" tvg-logo="" group-title="LATINO",HTV
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/hKd7EwF7l4/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/64954|User-Agent=''GTV''LITE''/14.9 (Linux;Android 9) ExoPlayerLib/2.9.6
 
+#EXTINF:0 tvg-chno="29" tvg-logo="" group-title="PARAGUAY",C9N
+https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5OTg0MTAxLCJzZXNzaW9uIjoiMTY4LjE5Ni4yNDYuMjI1Iiwid2hpdGVsaXN0IjpbIjE2OC4xOTYuMjQ2LjIyNSJdfSwic2lnbmF0dXJlIjoiOTI3YzFhNjcwYjQ2ZWNiNmFjNjFmMzEwMmNmNmI5ZGQ4YTMxMGZkNiJ9
+
 #EXTINF:0 tvg-chno="4" tvg-logo="" group-title="",
+
+
 
