@@ -52,7 +52,7 @@ https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
  https://blackghost.live/311/tvx.php?opcion=xtv33&c=1736
 
 #EXTINF:0 tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="PARAGUAY",TIGO SPORT
- https://blackghost.live/311/tvx.php?opcion=xtv33&c=1750
+ https://d2jluxxgx550su.cloudfront.net/out/v1/e41f1568b50d49229b095520e71de7ce/index.m3u8
 
 #EXTINF:0 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="LATINO",CANAL DE LAS ESTRELLA 
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=1225
@@ -87,13 +87,11 @@ https://blackghost.live/311/tvx.php?opcion=xtv33&c=1734
 #EXTINF:0 tvg-chno="28" tvg-http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/7dmXXZTfh9/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/64954|User-Agent=''GTV''LITE''/14.9 (Linux;Android 9) ExoPlayerLib/2.9.6="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="ARGENTINA",DIRECTV SPORT +
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=1735
 
-#EXTINF:0 tvg-chno="4" tvg-logo="" group-title="LATINO",HTV
+#EXTINF:0 tvg-chno="30" tvg-logo="" group-title="LATINO",HTV
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/hKd7EwF7l4/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/64954|User-Agent=''GTV''LITE''/14.9 (Linux;Android 9) ExoPlayerLib/2.9.6
 
 #EXTINF:0 tvg-chno="29" tvg-logo="" group-title="PARAGUAY",C9N
 https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5OTg0MTAxLCJzZXNzaW9uIjoiMTY4LjE5Ni4yNDYuMjI1Iiwid2hpdGVsaXN0IjpbIjE2OC4xOTYuMjQ2LjIyNSJdfSwic2lnbmF0dXJlIjoiOTI3YzFhNjcwYjQ2ZWNiNmFjNjFmMzEwMmNmNmI5ZGQ4YTMxMGZkNiJ9
 
 #EXTINF:0 tvg-chno="4" tvg-logo="" group-title="",
-
-
 
