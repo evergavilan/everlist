@@ -4,22 +4,22 @@
 
 
 #EXTINF:0 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",TELE FE
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=1261
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1621201245~exp=1621208445~acl=/i/appmitelefe_1@326430/*~hmac=8e91443f39c0d6822370138569d788669debee9ffd74deece54edcc529c9b087
 
 #EXTINF:0 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png " group-title="ARGENTINA",CANAL9
-https://ar-elnueve-elnueve-dev-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5OTg1MTc2LCJzZXNzaW9uIjoiMTY4LjE5Ni4yNDYuMjI1Iiwid2hpdGVsaXN0IjpbIjE2OC4xOTYuMjQ2LjIyNSJdfSwic2lnbmF0dXJlIjoiZTcwZGUxOGU0MGRkMzIyODEyMDc5NzJiZGUyYzUzNDZkZWU2NDAzNCJ9
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxMjkyMDMwLCJzZXNzaW9uIjoiMTY4LjE5Ni4yNDYuMjI1Iiwid2hpdGVsaXN0IjpbIjE2OC4xOTYuMjQ2LjIyNSJdfSwic2lnbmF0dXJlIjoiNmFjMDBmNzUxYjFiNGIzYTU2YzlkOTQ5ZDBkYzMxNjAzZWQ1MGI3MyJ9
 
 #EXTINF:0 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1200px-Logotipo_de_America_TV.svg.png" group-title="ARGENTINA",AMERICA
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=1271
+https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
 
 #EXTINF:0 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA",EL TRECE
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=1273
+https://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 
 #EXTINF:0 tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="PARAGUAY",TELE FUTURO
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=15172
+https://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4.m3u8
 
-#EXTINF:0 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",SNT
- https://blackghost.live/311/tvx.php?opcion=xtv33&c=15175
+#EXTINF:0 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",C9N
+ https://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4.m3u8
 
 #EXTINF:0 tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY",LA TELE
 https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1619894987~exp=1619902187~acl=/i/appmitelefe_1@326430/*~hmac=f16b750222aa570412a9c1474c77105369eef3cae37535164b10d76ebcf861d9
@@ -31,16 +31,16 @@ https://blackghost.live/311/tvx.php?opcion=xtv33&c=15173
 https://stream.rpc.com.py/live/trece.m3u8
 
 #EXTINF:0 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="ARGENTINA",C5N
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=1269
+
 
 #EXTINF:0 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="ARGENTINA",TN
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=15296
+
 
 #EXTINF:0 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="ARGENTINA",CANAL26
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=15283
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
 
 #EXTINF:0 tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="ARGENTINA",CRONICA
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=1267
+
 
 #EXTINF:0 tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",TYC SPORT
 https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
@@ -55,7 +55,7 @@ https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
  https://d2jluxxgx550su.cloudfront.net/out/v1/e41f1568b50d49229b095520e71de7ce/index.m3u8
 
 #EXTINF:0 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="LATINO",CANAL DE LAS ESTRELLA 
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=1225
+
 
 #EXTINF:0 tvg-chno="19" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="ARGENTINA",ESPN1
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=1672
