@@ -22,7 +22,7 @@ https://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating
  https://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4.m3u8
 
 #EXTINF:0 tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY",LA TELE
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1619894987~exp=1619902187~acl=/i/appmitelefe_1@326430/*~hmac=f16b750222aa570412a9c1474c77105369eef3cae37535164b10d76ebcf861d9
+
 
 #EXTINF:0 tvg-chno="13" tvg-logo="https://i.pinimg.com/originals/29/db/ba/29dbbaa4b401cfb760813f915e886e8e.jpg" group-title="PARAGUAY",UNICANAL
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=15173
