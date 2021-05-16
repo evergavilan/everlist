@@ -25,22 +25,22 @@ https://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating
 
 
 #EXTINF:0 tvg-chno="13" tvg-logo="https://i.pinimg.com/originals/29/db/ba/29dbbaa4b401cfb760813f915e886e8e.jpg" group-title="PARAGUAY",UNICANAL
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=15173
+http://45.55.127.106/live/unicanal.m3u8
 
 #EXTINF:0 tvg-chno="14" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="PARAGUAY",EL TRECE
 https://stream.rpc.com.py/live/trece.m3u8
 
 #EXTINF:0 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="ARGENTINA",C5N
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1621230095/ei/r62hYJWCAdDP1sQPhcCL8Ak/ip/168.196.246.225/id/kt43n3r1jJo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCnbE0l8nfES-Yu7vEp0i5_zH7ok7_nqKJ3zs0nACBIICIQDni20MUFJQAIj7bHGm86kW7WS--3j1aYomHZdENsgFRw%3D%3D/file/index.m3u8
 
 #EXTINF:0 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="ARGENTINA",TN
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1621230063/ei/j62hYMKUCYXw1sQPjY---AE/ip/168.196.246.225/id/wHn1_QVoXGM.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI-88b6Q9YpL-JWbdGOL12pdCnl1W80KmGL1bViIssfvAiEA2zBwSUz32v12UB8H7A_r7K3AY4PTzIIXLbLK9hKJRLc%3D/file/index.m3u8
 
 #EXTINF:0 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="ARGENTINA",CANAL26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
 
 #EXTINF:0 tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="ARGENTINA",CRONICA
-
+https://g5.mc-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:0 tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",TYC SPORT
 https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
@@ -90,8 +90,8 @@ https://blackghost.live/311/tvx.php?opcion=xtv33&c=1735
 #EXTINF:0 tvg-chno="30" tvg-logo="" group-title="LATINO",HTV
 http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/hKd7EwF7l4/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/64954|User-Agent=''GTV''LITE''/14.9 (Linux;Android 9) ExoPlayerLib/2.9.6
 
-#EXTINF:0 tvg-chno="29" tvg-logo="" group-title="PARAGUAY",C9N
-https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5OTg0MTAxLCJzZXNzaW9uIjoiMTY4LjE5Ni4yNDYuMjI1Iiwid2hpdGVsaXN0IjpbIjE2OC4xOTYuMjQ2LjIyNSJdfSwic2lnbmF0dXJlIjoiOTI3YzFhNjcwYjQ2ZWNiNmFjNjFmMzEwMmNmNmI5ZGQ4YTMxMGZkNiJ9
+#EXTINF:0 tvg-chno="29" tvg-logo="" group-title="PARAGUAY",SNT
+
 
 #EXTINF:0 tvg-chno="4" tvg-logo="" group-title="",
 
