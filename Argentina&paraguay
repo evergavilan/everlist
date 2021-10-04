@@ -31,36 +31,17 @@ http://45.55.127.106/live/unicanal.m3u8
 https://stream.rpc.com.py/live/trece.m3u8
 
 #EXTINF:0 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="ARGENTINA",C5N
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1621230095/ei/r62hYJWCAdDP1sQPhcCL8Ak/ip/168.196.246.225/id/kt43n3r1jJo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCnbE0l8nfES-Yu7vEp0i5_zH7ok7_nqKJ3zs0nACBIICIQDni20MUFJQAIj7bHGm86kW7WS--3j1aYomHZdENsgFRw%3D%3D/file/index.m3u8
+https://r4---sn-x1x7dn7k.googlevideo.com/videoplayback?expire=1633409264&ei=kIRbYd
 
 #EXTINF:0 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="ARGENTINA",TN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1621230063/ei/j62hYMKUCYXw1sQPjY---AE/ip/168.196.246.225/id/wHn1_QVoXGM.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI-88b6Q9YpL-JWbdGOL12pdCnl1W80KmGL1bViIssfvAiEA2zBwSUz32v12UB8H7A_r7K3AY4PTzIIXLbLK9hKJRLc%3D/file/index.m3u8
-
-#EXTINF:0 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="ARGENTINA",CANAL26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
-
-#EXTINF:0 tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="ARGENTINA",CRONICA
-https://g5.mc-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
-
-#EXTINF:0 tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",TYC SPORT
-https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
-
-#EXTINF:0 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="ARGENTINA",TNT SPORT
- https://blackghost.live/311/tvx.php?opcion=xtv33&c=1739
-
-#EXTINF:0 tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="ARGENTINA",FOX PREMIUM
- https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1633286341&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&nielsen=1&iph=4845af02725e72671659bb8b7ff57e9b3d3be1f34e9f130f463670abdb1bda17&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=dd7d4c81cca8bae51e649998e76320ed3d8052f5edab3e086c16778bbf316d68&pbs=634de7a017b14388b951223f8b5fabe2
-#EXTINF:0 tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="PARAGUAY",TIGO SPORT
- https://d2jluxxgx550su.cloudfront.net/out/v1/e41f1568b50d49229b095520e71de7ce/index.m3u8
-
-#EXTINF:0 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="LATINO",CANAL DE LAS ESTRELLA 
+https://r4---sn-x1x7dn7k.googlevideo.com/videoplayback?expire=1633409264&ei=kIRbYdOFN4PywQSbi4OIBQ&ip=168.196.246.225&id=wHn1_QVoXGM.4&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&hcs=sd%2Csd&mh=rv&mm=44%2C29&mn=sn-apo3x5g-x1xl%2Csn-x1x7dn7k&ms=lva%2Crdu&mv=m&mvi=1&pl=24&rmhost=r2---sn-apo3x5g-x1xl.googlevideo.com%2C&smhost=%2Cr4---sn-x1x7dn7z.googlevideo.com&initcwndbps=391250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=9e324dIqD4KG6ZISrXMOKSEG&gir=yes&mt=1633386753&fvip=4&keepalive=yes&fexp=24001373%2C24007246&beids=9466585&c=WEB_EMBEDDED_PLAYER&n=BNn29WX7p1Ss6w&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgGmhzJxHG9fInWVfiUMgN0HsgbA4aurFxGt7H8YyumLICIQD2kN5JzILSV9MempjAWD3YnD5X9YkNuWpSjLDXQ_56Dw%3D%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crmhost%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRQIhAIBgCJWyoJxbDzXNJmbNta2v3_i-jIlthP-Dmu3UI8kBAiAU3T83_lCqch-auu_Yp5Vx5V_eu_pqZIgNH3nZlIN2IA%3D%3D&alr=yes&cpn=CZWQXlNMV3BIKkDo&cver=1.20210928.1.1&fallback_count=1&sq=1985316&rn=7&rbuf=4900
 
 
 #EXTINF:0 tvg-chno="19" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="ARGENTINA",ESPN1
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=1672
 
 #EXTINF:0 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Espn2.svg"group-title="ARGENTINA",ESPN2
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=1674
+https://r1---sn-apo3x5g-x1xl.googlevideo.com/videoplayback?expire=1633409789&ei=nYZbYemAOZ6R1sQPkoGMgAg&ip=168.196.246.225&id=QTWsmb5se70.1&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&hcs=ir%2Csd&mh=Gs&mm=44%2C29&mn=sn-apo3x5g-x1xl%2Csn-x1x7zne7&ms=lva%2Crdu&mv=m&mvi=1&pl=24&smhost=%2Cr1---sn-x1x7zn7e.googlevideo.com&initcwndbps=400000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=QoZqF7n1rU_IoDY59ZVDnQkG&gir=yes&mt=1633387714&fvip=1&keepalive=yes&fexp=24001373%2C24007246&beids=9466585&c=WEB_EMBEDDED_PLAYER&n=f0VdmxMtBex8pQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhANsFdpztSBHPzOHlZ7uMTR8YBf282atyOiYNowJqCFmLAiEArAJe2QvQL08HZspCtge2IG0d6yGdIktvP3AZNSYpNws%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRAIgIrLDVjriYDmPWBzs_HEnWIio-yCtF3UaAEF1Yn1DOesCICU3ODPr_ewKo67b8qm0cbt8FhgJcFr-14vqPsnQA4SG&alr=yes&cpn=wcu6VPyxKh_GjBbW&cver=1.20210928.1.1&sq=256138&rn=5&rbuf=3915
 
 #EXTINF:0 tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="ARGENTINA",ESPN3
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=24540
