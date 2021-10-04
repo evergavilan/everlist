@@ -30,6 +30,10 @@ http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:0 tvg-chno="14" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="PARAGUAY",EL TRECE
 https://stream.rpc.com.py/live/trece.m3u8
 
+
+#EXTINF:0 tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",SNT
+https://py-snt-snt-live.ned.media:443/snt/smil:snt.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzNDc2MTMzLCJzZXNzaW9uIjoiMTY4LjE5Ni4yNDYuMjI1Iiwid2hpdGVsaXN0IjpbIjE2OC4xOTYuMjQ2LjIyNSJdfSwic2lnbmF0dXJlIjoiNDMwOTI5ZDA2NzNmYmI4NmExZTk4MjYwZDRiNmI5ZWZkNDhjZGFiNCJ9
+
 #EXTINF:0 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="ARGENTINA",C5N
 https://r4---sn-x1x7dn7k.googlevideo.com/videoplayback?expire=1633409264&ei=kIRbYd
 
