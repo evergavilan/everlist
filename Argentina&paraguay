@@ -4,7 +4,7 @@
 
 
 #EXTINF:0 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",TELE FE
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1633382769~exp=1633389969~acl=/i/appmitelefe_1@326430/*~hmac=fb2d3b15dc696c23d1f1970e698b7e6bf3a6b15bd8e53b1144f2aa24bacf36ec
+https://akamai2-br.cdn.booyah.live/hls/1500057/79691263.m3u8
 
 #EXTINF:0 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png " group-title="ARGENTINA",CANAL9
 https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzNDczMjkyLCJzZXNzaW9uIjoiMTY4LjE5Ni4yNDYuMjI1Iiwid2hpdGVsaXN0IjpbIjE2OC4xOTYuMjQ2LjIyNSJdfSwic2lnbmF0dXJlIjoiNTQzNWFmMDJlOTg0MDllZmJhYTU2NzYwMzk1OGMwZTdlN2ZjMDFjMiJ9
