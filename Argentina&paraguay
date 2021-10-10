@@ -1,7 +1,8 @@
 
 
 #EXTM3U
-
+#EXTINF:0 tvg-chno="" tvg-logo="https://i.pinimg.com/originals/37/ae/ff/37aeff5fe7cc6a3964ead7e9aa1363d2.jpg" group-title="PARAGUAY",FARRA PLAY
+http://159.203.148.226/live/farra.m3u8
 
 #EXTINF:0 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",TELE FE
 
