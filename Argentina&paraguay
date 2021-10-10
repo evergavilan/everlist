@@ -16,24 +16,24 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
 https://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 
 #EXTINF:0 tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="PARAGUAY",TELE FUTURO
-https://rds3.desdeparaguay.net:443/telefuturo/telefuturo_int_baja/chunklist_w1092315405.m3u8?k=98d4e3002dc3f38c1273f1f8ed1529aa402b586cfe7869592cc9d25f85a0fee7&exp=1633388622
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=7b607b7edb9219e1afd153d7073f590b36143dd2a65d294caf392f545facb8e1&exp=1633876778
 
 #EXTINF:0 tvg-chno="11" tvg-logo="https://www.c9n.com.py/wp-content/themes/albavision-theme/img/logo.png" group-title="PARAGUAY",C9N
 
- https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzNDc1MjkxLCJzZXNzaW9uIjoiMTY4LjE5Ni4yNDYuMjI1Iiwid2hpdGVsaXN0IjpbIjE2OC4xOTYuMjQ2LjIyNSJdfSwic2lnbmF0dXJlIjoiMjVkMDU0NzM1MDViMTU4ZWVmMWI1NjkxZDAxNmQ4ZDliOTFhN2I2OCJ9
+ https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzOTYzNDI0LCJzZXNzaW9uIjoiMTY4LjE5Ni4yNDYuMjI1Iiwid2hpdGVsaXN0IjpbIjE2OC4xOTYuMjQ2LjIyNSJdfSwic2lnbmF0dXJlIjoiMTNjZmJlZTlmM2NmNzMyMTU2NzBjMjU2YjcxMDI3Yjk2NDAyYzRjYSJ9
 
 #EXTINF:0 tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY",LA TELE
-
+https://rds3.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=266842c422aa7beaa28d89abe7965634b8c8b7cbff04505ffa86479ffc1d38f0&exp=1633877163
 
 #EXTINF:0 tvg-chno="13" tvg-logo="https://i.pinimg.com/originals/29/db/ba/29dbbaa4b401cfb760813f915e886e8e.jpg" group-title="PARAGUAY",UNICANAL
-http://45.55.127.106/live/unicanal.m3u8
+http://45.55.127.106/live/unicanal_mid.m3u8
 
 #EXTINF:0 tvg-chno="14" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="PARAGUAY",EL TRECE
 https://stream.rpc.com.py/live/trece.m3u8
 
 
 #EXTINF:0 tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",SNT
-https://py-snt-snt-live.ned.media:443/snt/smil:snt.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzNDc2MTMzLCJzZXNzaW9uIjoiMTY4LjE5Ni4yNDYuMjI1Iiwid2hpdGVsaXN0IjpbIjE2OC4xOTYuMjQ2LjIyNSJdfSwic2lnbmF0dXJlIjoiNDMwOTI5ZDA2NzNmYmI4NmExZTk4MjYwZDRiNmI5ZWZkNDhjZGFiNCJ9
+
 
 #EXTINF:0 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="ARGENTINA",C5N
 https://r4---sn-x1x7dn7k.googlevideo.com/videoplayback?expire=1633409264&ei=kIRbYd
