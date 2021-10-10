@@ -17,7 +17,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
 https://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="PARAGUAY",TELE FUTURO
-https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?exp=1615764240&k=d9185e101ab199e7333c542362965ef797b30c4dc2f64263832b27190bfe40f7
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=76419efb32ee31c682097de9889d0591f6f9dabf66dd83c7473c47c5f51ab789&exp=1633905501
 
 #EXTINF:0 tvg-chno="11" tvg-logo="https://www.c9n.com.py/wp-content/themes/albavision-theme/img/logo.png" group-title="PARAGUAY",C9N
 
@@ -86,4 +86,6 @@ https://usher.ttvnw.net/api/channel/hls/8kkctoon.m3u8?allow_source=true&fast_bre
 
 #EXTINF:-1 tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",TYC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+
 
