@@ -38,7 +38,7 @@ http://174.138.118.252/live/trece.m3u8
 https://r4---sn-x1x7dn7k.googlevideo.com/videoplayback?expire=1633409264&ei=kIRbYd
 
 #EXTINF:0 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="ARGENTINA",TN
-https://r4---sn-x1x7dn7k.googlevideo.com/videoplayback?expire=1633409264&ei=kIRbYdOFN4PywQSbi4OIBQ&ip=168.196.246.225&id=wHn1_QVoXGM.4&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&hcs=sd%2Csd&mh=rv&mm=44%2C29&mn=sn-apo3x5g-x1xl%2Csn-x1x7dn7k&ms=lva%2Crdu&mv=m&mvi=1&pl=24&rmhost=r2---sn-apo3x5g-x1xl.googlevideo.com%2C&smhost=%2Cr4---sn-x1x7dn7z.googlevideo.com&initcwndbps=391250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=9e324dIqD4KG6ZISrXMOKSEG&gir=yes&mt=1633386753&fvip=4&keepalive=yes&fexp=24001373%2C24007246&beids=9466585&c=WEB_EMBEDDED_PLAYER&n=BNn29WX7p1Ss6w&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgGmhzJxHG9fInWVfiUMgN0HsgbA4aurFxGt7H8YyumLICIQD2kN5JzILSV9MempjAWD3YnD5X9YkNuWpSjLDXQ_56Dw%3D%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crmhost%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRQIhAIBgCJWyoJxbDzXNJmbNta2v3_i-jIlthP-Dmu3UI8kBAiAU3T83_lCqch-auu_Yp5Vx5V_eu_pqZIgNH3nZlIN2IA%3D%3D&alr=yes&cpn=CZWQXlNMV3BIKkDo&cver=1.20210928.1.1&fallback_count=1&sq=1985316&rn=7&rbuf=4900
+https://everlist12.herokuapp.com//iptv-query?streaming-ip=https://m.youtube.com/watch?v=wHn1_QVoXGM/live
 
 
 #EXTINF:0 tvg-chno="19" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="ARGENTINA",ESPN1
@@ -96,7 +96,7 @@ https://centurylink.br.cdn.booyah.live/hls/1500019/84348185.m3u8
 
 
 
-https://query-streamlink-us.herokuapp.com/iptv-query?streaming-ip=
+https://everlist12.herokuapp.com//iptv-query?streaming-ip=
 
 
 
