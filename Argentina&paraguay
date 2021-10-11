@@ -41,6 +41,11 @@ https://r4---sn-x1x7dn7k.googlevideo.com/videoplayback?expire=1633409264&ei=kIRb
 https://everlist12.herokuapp.com//iptv-query?streaming-ip=https://m.youtube.com/watch?v=wHn1_QVoXGM/live
 
 
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="ARGENTINA",C5N
+https://everlist12.herokuapp.com//iptv-query?streaming-ip=m.youtube.com/watch?v=QTWsmb5se70/live
+
+
+
 #EXTINF:0 tvg-chno="19" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="ARGENTINA",ESPN1
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=1672
 
@@ -96,7 +101,7 @@ https://centurylink.br.cdn.booyah.live/hls/1500019/84348185.m3u8
 
 
 
-https://everlist12.herokuapp.com//iptv-query?streaming-ip=
+https://everlist12.herokuapp.com//iptv-query?streaming-ip=m.youtube.com/watch?v=QTWsmb5se70/live
 
 
 
