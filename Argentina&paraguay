@@ -5,7 +5,7 @@
 http://159.203.148.226/live/farra.m3u8
 
 #EXTINF:0 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",TELE FE
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1633874198~exp=1633881398~acl=/i/appmitelefe_1@326430/*~hmac=ff718cebef7bfbbe2b56caa2947dd870ff9b2dd85f7d140da8bbd9c5af5ea6b5
+https://everlist12.herokuapp.com/iptv-query?streaming-ip=https://www.sintelevisionhd.com/telefe-en-vivo/live
 
 #EXTINF:0 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png " group-title="ARGENTINA",CANAL9
 https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzNDczMjkyLCJzZXNzaW9uIjoiMTY4LjE5Ni4yNDYuMjI1Iiwid2hpdGVsaXN0IjpbIjE2OC4xOTYuMjQ2LjIyNSJdfSwic2lnbmF0dXJlIjoiNTQzNWFmMDJlOTg0MDllZmJhYTU2NzYwMzk1OGMwZTdlN2ZjMDFjMiJ9
@@ -98,7 +98,7 @@ https://centurylink.br.cdn.booyah.live/hls/1500019/84348185.m3u8
 
 
 
-https://everlist12.herokuapp.com/iptv-query?streaming-ip=https://m.youtube.com/watch?v=Ul8_eKQY6Vg/live
+https://everlist12.herokuapp.com/iptv-query?streaming-ip=https://www.sintelevisionhd.com/telefe-en-vivo/live
 
 
 
