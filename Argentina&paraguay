@@ -34,15 +34,12 @@ http://174.138.118.252/live/trece.m3u8
 #EXTINF:0 tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",SNT
 
 
-#EXTINF:0 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="ARGENTINA",C5N
-https://r4---sn-x1x7dn7k.googlevideo.com/videoplayback?expire=1633409264&ei=kIRbYd
+#EXTINF:0 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="ARGENTINA",C5N
+https://everlist12.herokuapp.com//iptv-query?streaming-ip=https://m.youtube.com/watch?v=QTWsmb5se70/live
 
-#EXTINF:0 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="ARGENTINA",TN
+
+#EXTINF:-1 tvg-chno="6"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA",TN
 https://everlist12.herokuapp.com//iptv-query?streaming-ip=https://m.youtube.com/watch?v=wHn1_QVoXGM/live
-
-
-#EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="ARGENTINA",C5N
-https://everlist12.herokuapp.com//iptv-query?streaming-ip=m.youtube.com/watch?v=QTWsmb5se70/live
 
 
 
@@ -101,7 +98,7 @@ https://centurylink.br.cdn.booyah.live/hls/1500019/84348185.m3u8
 
 
 
-https://everlist12.herokuapp.com//iptv-query?streaming-ip=m.youtube.com/watch?v=QTWsmb5se70/live
+https://everlist12.herokuapp.com//iptv-query?streaming-ip=https://m.youtube.com/watch?v=QTWsmb5se70/live
 
 
 
