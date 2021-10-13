@@ -46,7 +46,7 @@ https://everlist12.herokuapp.com/iptv-query?streaming-ip=https://m.youtube.com/w
 #EXTINF:0 tvg-chno="19" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="ARGENTINA",ESPN1
 .
 
-#EXTINF: tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Espn2.svg"group-title="ARGENTINA",ESPN2
+#EXTINF:0tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Espn2.svg"group-title="ARGENTINA",ESPN2
 http://145.239.2.125:20102/live/5a0589b0b7c4456e83757909ba191015/fb033fcc25934821940d5d912a485e95/28.m3u8
 
 #EXTINF:0 tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="ARGENTINA",ESPN3
