@@ -44,22 +44,22 @@ https://everlist12.herokuapp.com/iptv-query?streaming-ip=https://m.youtube.com/w
 
 
 #EXTINF:0 tvg-chno="19" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="ARGENTINA",ESPN1
-http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/4b9502f0426fa5f416c39c5dc4b53afa9a4c4036/a8ed44ea223a6fc39d7bd7e651cc03310808445d/10027_19.m3u8
+.
 
-#EXTINF:0 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Espn2.svg"group-title="ARGENTINA",ESPN2
-https://r1---sn-apo3x5g-x1xl.googlevideo.com/videoplayback?expire=1633409789&ei=nYZbYemAOZ6R1sQPkoGMgAg&ip=168.196.246.225&id=QTWsmb5se70.1&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&hcs=ir%2Csd&mh=Gs&mm=44%2C29&mn=sn-apo3x5g-x1xl%2Csn-x1x7zne7&ms=lva%2Crdu&mv=m&mvi=1&pl=24&smhost=%2Cr1---sn-x1x7zn7e.googlevideo.com&initcwndbps=400000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=QoZqF7n1rU_IoDY59ZVDnQkG&gir=yes&mt=1633387714&fvip=1&keepalive=yes&fexp=24001373%2C24007246&beids=9466585&c=WEB_EMBEDDED_PLAYER&n=f0VdmxMtBex8pQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhANsFdpztSBHPzOHlZ7uMTR8YBf282atyOiYNowJqCFmLAiEArAJe2QvQL08HZspCtge2IG0d6yGdIktvP3AZNSYpNws%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRAIgIrLDVjriYDmPWBzs_HEnWIio-yCtF3UaAEF1Yn1DOesCICU3ODPr_ewKo67b8qm0cbt8FhgJcFr-14vqPsnQA4SG&alr=yes&cpn=wcu6VPyxKh_GjBbW&cver=1.20210928.1.1&sq=256138&rn=5&rbuf=3915
+#EXTINF: tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Espn2.svg"group-title="ARGENTINA",ESPN2
+http://145.239.2.125:20102/live/5a0589b0b7c4456e83757909ba191015/fb033fcc25934821940d5d912a485e95/28.m3u8
 
 #EXTINF:0 tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="ARGENTINA",ESPN3
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=24540
+
 
 #EXTINF:0 tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png" group-title="ARGENTINA",FOX SPORT
-https://blackghost.live/311/tvx.php?opcion=xtv33&c=1714
+http://145.239.2.125:20102/live/45bbfed7117c4307a0d3f6ccbbe025ca/4c253d653bfc4688a3627d88fa8f3b57/1.m3u8
 
 #EXTINF:0 tvg-chno="23" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="ARGENTINA",FOX SPORT2
-http://209.91.213.10:8088/play/a02r
+http://145.239.2.125:20102/live/1cded49291db4f39acd9a1c8454bb837/e5f64b3985af43c2bb335f1dafe65442/3.m3u8
 
 #EXTINF:0 tvg-chno="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1024px-Fox_sports_3_logo.svg.png" group-title="ARGENTINA",FOX SPORT3
-http://209.91.213.10:8088/play/a00y
+http://145.239.2.125:20102/live/4bc3b04906e54aa0851543bfc8eb620b/85b91ffc59724e82a9a490bdeb6abf5d/5.m3u8
 
 #EXTINF:0 tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="ARGENTINA",TRU TV
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=1493
@@ -80,7 +80,7 @@ http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/hKd7EwF7l4/Descarga-D
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
 
 #EXTINF:-1 tvg-chno=""tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ARGENTINA",TNT
-https://usher.ttvnw.net/api/channel/hls/ntn_t144.m3u8?allow_source=true&fast_bread=true&p=7784807&play_session_id=d76159c95b29ff41d6146526d1486879&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=fc24b4f7598ffe241738899eb011b61676ed1b2f&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ntn_t144%22%2C%22channel_id%22%3A730611532%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2283a439acca3d026b%22%2C%22expires%22%3A1633903862%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22168.196.246.225%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.5.0
+
 
 #EXTINF:0 tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="ARGENTINA",Cartoon Network
 https://everlist12.herokuapp.com/iptv-query?streaming-ip=https://m.youtube.com/watch?v=Ul8_eKQY6Vg/live
