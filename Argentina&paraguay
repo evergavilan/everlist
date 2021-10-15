@@ -62,7 +62,7 @@ http://145.239.2.125:20102/live/1cded49291db4f39acd9a1c8454bb837/e5f64b3985af43c
 http://145.239.2.125:20102/live/4bc3b04906e54aa0851543bfc8eb620b/85b91ffc59724e82a9a490bdeb6abf5d/5.m3u8
 
 #EXTINF:0 tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="ARGENTINA",TRU TV
-http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/4b9502f0426fa5f416c39c5dc4b53afa9a4c4036/ae68e6b912dfebe2ab42ce8d3c7a9641d223bd72/10077_9.m3u8
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/4b9502f0426fa5f416c39c5dc4b53afa9a4c4036/7ee11200d2e70ce8a152c1abb6ae273aa131026b/10077_9.m3u8
 
 #EXTINF:0 tvg-chno="26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="ARGENTINA",DIRECTV SPORT
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=1733
@@ -70,7 +70,7 @@ https://blackghost.live/311/tvx.php?opcion=xtv33&c=1733
 #EXTINF:0 tvg-chno="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="ARGENTINA",DIRECTV SPORT 1
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=1734
 
-#EXTINF:0 tvg-chno="28" tvg-http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/7dmXXZTfh9/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/64954|User-Agent=''GTV''LITE''/14.9 (Linux;Android 9) ExoPlayerLib/2.9.6="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="ARGENTINA",DIRECTV SPORT +
+#EXTINF:0 tvg-chno="28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="ARGENTINA",DIRECTV SPORT +
 https://blackghost.live/311/tvx.php?opcion=xtv33&c=1735
 
 #EXTINF:0 tvg-chno="30" tvg-logo="" group-title="LATINO",HTV
